@@ -1,5 +1,4 @@
 # update log:
 
 V.1: 
-* OS CREATION
-* darkmode
+* text editor only for now
